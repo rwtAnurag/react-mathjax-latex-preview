@@ -1,5 +1,5 @@
 {
-  "name": "react-mathjax-better-preview",
+  "name": "react-mathjax-preview-better-test1",
   "version": "1.0.0",
   "description": "react-mathjax-better-preview provides React component to render MathML, Latex,TeX many Maths formulas.",
   "main": "dist/index.js",
