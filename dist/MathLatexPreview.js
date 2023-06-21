@@ -5,7 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports["default"] = void 0;
 var _react = require("react");
-var _Main = _interopRequireDefault(require("./Main.js"));
+var _Main = _interopRequireDefault(require("./Main.jsx"));
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 var MathLatexPreview = function MathLatexPreview(props) {
   var _props$className = props.className,
