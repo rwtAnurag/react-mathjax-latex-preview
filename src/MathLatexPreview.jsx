@@ -1,5 +1,5 @@
 import { memo} from "react";
-import Mathjax from "./Main.js"
+import Mathjax from "./Main.jsx"
 const MathLatexPreview =(props)=>{
     const {
         className="",
